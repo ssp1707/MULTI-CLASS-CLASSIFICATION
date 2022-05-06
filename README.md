@@ -1,4 +1,4 @@
-# MULTI-CLASS-CLASSIFICATION
+# MULTI CLASS CLASSIFICATION
 ## AIM:
 
 To write a python program to implement the multi class classification algorithm .
